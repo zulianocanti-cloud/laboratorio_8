@@ -1,3 +1,5 @@
 Primer repositorio del curso.
 Trabajo usando Git por SSH.
 Este archivo se usará para practicar cambios y commits.
+
+Después de git pull, el repositorio local quedó sincronizado con el remoto.
